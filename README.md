@@ -10,7 +10,7 @@
 
    User Registration, Login, Logout, Forgot Password
    Product Search, Compare, and Display Page
-   Add to Cart, Wish List, and Shopping Cart
+   Add to Cart, Wish List, and Shopping Cart etc.
 
   My responsibilities included:
   ✔ Designing test scenarios, test cases, and checklists
